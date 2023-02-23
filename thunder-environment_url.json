@@ -1,0 +1,7 @@
+{
+  "client": "Thunder Client",
+  "environmentName": "url",
+  "dateExported": "2021-10-19T13:45:45.143Z",
+  "version": "1.0",
+  "variables": [{ "name": "URL", "value": "localhost:3000/api/v1" }]
+}
